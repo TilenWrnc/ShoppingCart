@@ -1,0 +1,16 @@
+*  {
+  margin: 0;
+  padding: 0;
+  font-family: "DM Serif Text", serif;
+}
+.dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
